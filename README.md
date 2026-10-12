@@ -56,8 +56,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tarun-82&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tarun-82&theme=radical&no-frame=false&no-bg=true)
-
 ---
 
 ## 🚀 Projects
